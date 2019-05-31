@@ -1,0 +1,47 @@
+{
+  "name": "@syncfusion/reporting-javascript",
+  "version": "4.1.16",
+  "description": "Npm package of Syncfusion JavaScript Reports.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syncfusion-reports/reporting-javascript-ui-controls.git"
+  },
+  "keywords": [
+    "syncfusion",
+    "ej",
+    "essential",
+    "javascript",
+    "reports"
+  ],
+  "author": "Syncfusion Inc",
+  "license": "SEE LICENSE IN README.md",
+  "dependencies": {
+    "@syncfusion/reporting-global": "*",
+    "jquery": "*",
+    "jquery-validation": "*",
+    "jsrender": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/syncfusion-reports/reporting-javascript-ui-controls/issues"
+  },
+  "homepage": "https://github.com/syncfusion-reports/reporting-javascript-ui-controls",
+  "files": [
+    "Scripts/",
+    "Content/"
+  ],
+  "jspm": {
+    "main": false,
+    "format": "amd",
+    "registry": "npm",
+    "files": [
+      "Scripts",
+      "Content"
+    ],
+    "dependencies": {
+      "@syncfusion/reporting-global": "*",
+      "jquery": "*",
+      "jsrender": "*",
+      "jquery-validation": "*"
+    }
+  }
+}
