@@ -7,11 +7,22 @@
     "url": "https://github.com/syncfusion-reports/reporting-javascript-ui-controls.git"
   },
   "keywords": [
-    "syncfusion",
-    "ej",
-    "essential",
-    "javascript",
-    "reports"
+    "Report Viewer",
+    "Report Designer",
+    "Report Editor",
+    "Report Builder",
+    "SSRS",
+    "JavaScript Controls",
+    "HTML5 controls",
+    "Reporting Tool",
+    "Syncfusion",
+    "UI Controls",
+    "Web",
+    "Reports",
+    "RDL",
+    "RDLC",
+    "RDLC Viewer",
+    "RDL Viewer"
   ],
   "author": "Syncfusion Inc",
   "license": "SEE LICENSE IN README.md",
