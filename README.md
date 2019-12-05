@@ -2,7 +2,7 @@
 
 The Syncfusion Reporting UI controls for JavaScript contains `Report Viewer` and `Report Designer` HTML5 and JavaScript controls for enterprise web development. Empower your web application with feature-rich report preview, edit, and customization capabilities that allow you to explore data easily and make real-time decisions. Effortlessly print and export reports.
 
-![Syncfusion JavaScript Reporting Tool](https://reports.syncfusion.com/demos/Images/report-platform.gif)
+![Syncfusion JavaScript Reporting Tool](https://demos.boldreports.com/Images/report-platform.gif)
 
 ## Demos
 
